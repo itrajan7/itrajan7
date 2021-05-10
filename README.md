@@ -1,27 +1,27 @@
 <h1 align="center"><a href="#"><img width = "400px" height="auto" src="https://github.com/itrajan7/itrajan7/blob/main/11df2bc889722dab6946142dc9c701-unscreen.gif" height="auto"/></a></h1> 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rajan</h1>
-<h3 align="center">kmlo</h3>
+<h3 align="center"></h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **Languages**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/itrajan7?tab=repositories)**
 
-- 🤔 I’m looking for help with ****
+- 🤔 I’m looking for help with **Android App Development**
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **itrajan7@gmail.com**
 
-- 😄 Pronouns ****
+- 😄 Pronouns: **He/Him/His**
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact: **I love To Learn New Things**
 
 
 ## 🚀 Languages and Tools:
@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/itrajan7/github-readme-activity-graph"><img alt="Rajan Yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itrajan7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/itrajan7/github-readme-activity-graph"><img alt="Rajan Yadav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=itrajan7&bg_color=0D1117&color=5BCDEC&line=66ff66&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
