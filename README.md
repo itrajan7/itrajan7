@@ -98,7 +98,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=itrajan7"></a>
+<a href="https://github.com/itrajan7/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=itrajan7"></a>
 <a href="https://github.com/itrajan7?tab=followers"><img src="https://img.shields.io/github/followers/itrajan7?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
