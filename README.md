@@ -96,6 +96,12 @@
 </p>
 -->
 
+## 📘 My top open source projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itrajan7&theme=algolia&repo=Final_Year_Project_Calibre)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ## ❤ Views and Followers
 
 <a href="https://github.com/itrajan7/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=itrajan7"></a>
